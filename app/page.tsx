@@ -46,7 +46,7 @@ export default function Home() {
                 <Image src={musicIcon} alt="icon-music" />
                 <div className="flex  flex-col h-fit">
                   <h3 className="text-dark-blue font-bold">Annual Plan</h3>
-                  <p className="text-desaturated-blue font-medium">
+                  <p className="text-desaturated-blue font-medium text-sm">
                     $59.99/year
                   </p>
                 </div>
